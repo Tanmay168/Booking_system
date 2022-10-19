@@ -1,4 +1,3 @@
-# Ticket-Booking-Site
 # Ticket-Booking_system
 This Project is developed by using the technologies like HTML, CSS, PHP and MySQL. This project is basically used for booking tours. There are basically Registration Page, Login Page, and Contact Us page. Apart from that there is an About Me page.
 
